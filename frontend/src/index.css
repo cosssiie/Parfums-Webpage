@@ -1,0 +1,30 @@
+@import './styles/MainSection.css';
+@import './styles/AboutSection.css';
+@import './styles/Perfumes.css';
+
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  overflow: auto;
+}
+
+body {
+  font-family: "Unna", serif;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+
+}
+
+h1 {
+  font-family: "MonteCarlo", cursive;
+  font-size: clamp(24px, 6vw, 70px);
+  font-weight: lighter;
+  font-style: normal;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

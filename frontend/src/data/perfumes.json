@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Floral Whisper",
+    "image": "/assets/images/pexels-karolina-grabowska-8361545.jpg",
+    "notes": {
+      "top": "Bergamot, Lemon",
+      "heart": "Rose, Jasmine",
+      "base": "Vanilla, Musk"
+    },
+    "prices": {
+      "30ml": 35,
+      "50ml": 50,
+      "100ml": 75
+    }
+  },
+  {
+    "id": 2,
+    "name": "Woody Elegance",
+    "image": "/assets/images/pexels-karolina-grabowska-8361545.jpg",
+    "notes": {
+      "top": "Pepper, Grapefruit",
+      "heart": "Cedar, Vetiver",
+      "base": "Amber, Leather"
+    },
+    "prices": {
+      "30ml": 40,
+      "50ml": 60,
+      "100ml": 85
+    }
+  },
+  {
+    "id": 3,
+    "name": "Floral Whisper",
+    "image": "/assets/images/pexels-karolina-grabowska-8361545.jpg",
+    "notes": {
+      "top": "Bergamot, Lemon",
+      "heart": "Rose, Jasmine",
+      "base": "Vanilla, Musk"
+    },
+    "prices": {
+      "30ml": 35,
+      "50ml": 50,
+      "100ml": 75
+    }
+  },
+  {
+    "id": 4,
+    "name": "Floral Whisper",
+    "image": "/assets/images/pexels-karolina-grabowska-8361545.jpg",
+    "notes": {
+      "top": "Bergamot, Lemon",
+      "heart": "Rose, Jasmine",
+      "base": "Vanilla, Musk"
+    },
+    "prices": {
+      "30ml": 35,
+      "50ml": 50,
+      "100ml": 75
+    }
+  },
+  {
+    "id": 5,
+    "name": "Floral Whisper",
+    "image": "/assets/images/pexels-karolina-grabowska-8361545.jpg",
+    "notes": {
+      "top": "Bergamot, Lemon",
+      "heart": "Rose, Jasmine",
+      "base": "Vanilla, Musk"
+    },
+    "prices": {
+      "30ml": 35,
+      "50ml": 50,
+      "100ml": 75
+    }
+  },
+  {
+    "id": 6,
+    "name": "Floral Whisper",
+    "image": "/assets/images/pexels-karolina-grabowska-8361545.jpg",
+    "notes": {
+      "top": "Bergamot, Lemon",
+      "heart": "Rose, Jasmine",
+      "base": "Vanilla, Musk"
+    },
+    "prices": {
+      "30ml": 35,
+      "50ml": 50,
+      "100ml": 75
+    }
+  },
+  {
+    "id": 7,
+    "name": "Floral Whisper",
+    "image": "/assets/images/pexels-karolina-grabowska-8361545.jpg",
+    "notes": {
+      "top": "Bergamot, Lemon",
+      "heart": "Rose, Jasmine",
+      "base": "Vanilla, Musk"
+    },
+    "prices": {
+      "30ml": 35,
+      "50ml": 50,
+      "100ml": 75
+    }
+  }
+]

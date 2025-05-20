@@ -2,9 +2,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    padding: 20px;
+    min-height: 100vh;
     box-sizing: border-box;
+    background-image: url('/public/assets/images/pexels-karolina-grabowska-4466461.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .main-page-section {
@@ -23,7 +27,10 @@
     animation: popIn 0.8s ease-in-out forwards;
 }
 
-.main-page-section h1,
+.main-page-section h1 {
+    color: rgb(139, 137, 63);
+}
+
 .main-page-section p {
     font-family: "MonteCarlo", cursive;
     font-size: clamp(24px, 6vw, 70px);
